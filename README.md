@@ -1,6 +1,6 @@
 # go-lang-training-amdocs
 
-# Go Microservices Mastery
+## Go Microservices Mastery
 
 ## Module 1: Introduction to Go & Microservices Architecture
 
