@@ -154,28 +154,3 @@ gRPC
 | Streaming       | Limited     | Full Duplex            |
 | Browser Support | Excellent   | Limited                |
 | Best For        | Public APIs | Internal Microservices |
-
----
-
-# Learning Outcomes
-
-By the end of this module, learners will:
-
-* Understand Go fundamentals
-* Differentiate Monolith vs Microservices
-* Understand microservices design principles
-* Learn Twelve-Factor App methodology
-* Understand service communication patterns
-* Compare REST vs gRPC
-* Be ready to build production-ready Go microservices
-
----
-
-# Next Module Preview
-
-➡ Building Your First Go REST Microservice
-➡ Project Structure Best Practices
-➡ Dockerizing Go Applications
-➡ Connecting Services with gRPC
-
----
