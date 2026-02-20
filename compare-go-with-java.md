@@ -48,8 +48,8 @@ public class Main {
 * Java is fully object-oriented.
 
 **Key Difference**
-Go -> does NOT require a class to run code.
-Java -> MUST have a class.
+* Go -> does NOT require a class to run code.
+* Java -> MUST have a class.
 
 ---
 
